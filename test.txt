@@ -1,0 +1,281 @@
+Account 1: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 5000
+
+		pay
+		string: 5000
+		
+		ether: 99.999999999994334696 ether
+		
+
+
+Result: Pass
+
+Account 2: 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 5500
+
+		pay
+		string: 5500
+		
+		ether: 99.999999999995637465 ether
+		
+
+
+Result: Pass
+
+
+Account 3: 0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 5800
+
+		pay
+		string: 5800
+		
+		ether: 99.999999999994362872 ether
+		
+
+
+Result: Pass
+
+Account 4: 0x78731D3Ca6b7E34aC0F824c42a7cC18A495cabaB
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 6200
+
+		pay
+		string: 6200
+		
+		ether: 99.999999999992738465 ether
+		
+
+
+Result: Pass
+
+Account 5: 0x617F2E2fD72FD9D5503197092aC168c91465E7f2
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 6800
+
+		pay
+		string: 6800
+		
+		ether: 99.999999999995647381 ether
+		
+
+
+Result: Pass
+
+Account 6: 0x17F6AD8Ef982297579C203069C1DbfFE4348c372
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 6600
+
+		pay
+		string: 6600
+		
+		ether: 99.999999999998675646 ether
+		
+
+
+Result: Pass
+
+Account 7: 0x5c6B0f7Bf3E7ce046039Bd8FABdfD3f9F5021678
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 7400
+
+		pay
+		string: 7400
+		
+		ether: 99.999999999993476423 ether
+		
+
+
+Result: Pass
+
+Account 8: 0x03C6FcED478cBbC9a4FAB34eF9f40767739D1Ff7
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 7700
+
+		pay
+		string: 7700
+		
+		ether: 99.999999999994536784 ether
+		
+
+
+Result: Pass
+
+Account 9: 0x1aE0EA34a72D944a8C7603FfB3eC30a6669E454C
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 8300
+
+		pay
+		string: 8300
+		
+		ether: 99.999999999993476524 ether
+		
+
+
+Result: Pass
+
+Account 10: 0x0A098Eda01Ce92ff4A4CCb7A4fFFb5A43EBC70DC
+Test name: Creating new order of 1000 
+Test Description: User calls the acceptQuantity function and enters the beach_id 
+		and quantity.
+Desired outcome: On clicking the quantity function we able to see the quantity
+		 and then we will click quantiy function to verfiy the quantiy
+		 on verifying the requestPayment function is used in order to pay.
+		 if we see the pay successful you need to click on the pay function.
+Actual outcome:
+		acceptQuantity
+		cvalue: 1000
+		vidd: 215
+		
+		quantity
+		uint256: 1000
+
+		requestPayment
+		_msg: 8600
+
+		pay
+		string: 8600
+		
+		ether: 99.999999999994563782 ether
+		
+
+
+Result: Pass
+
